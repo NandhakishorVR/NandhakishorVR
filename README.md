@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Nandha kishor VR
+Hi there! I'm Nandha Kishor VR — I enjoy building smart things with Python and React, and I'm diving deep into the world of AI.
 
 
 ## 🌐 Socials:
